@@ -1,0 +1,79 @@
+
+/* Classic chocholate TITLE */
+h1 {
+    font-family: 'Cursive', 'Brush Script MT';
+    font-size: 3.7em;
+    text-align: center;
+    color: #d13f1b; 
+}
+
+/* Ingredients */
+h2 {
+    font-family: 'fantasy';
+    font-size: 1.5em;
+    color: #e97c00; 
+}
+
+/* Bio */
+p {
+    font-family: 'cursive';
+    font-size: 1em;
+    line-height: 1.4; 
+    color: #181717; 
+}
+
+/* whole background */
+body {
+    background-color: #b2b3a75e; 
+}
+
+/* my h1s and h2s background */
+h1, h2 {
+    background-color: #b1b0ae7a; 
+    padding: 10px;
+}
+
+/* my lists positioning */
+ul, ol {
+    padding-left:40px;
+    margin-bottom: 20px;
+}
+
+/* image positioning and border */
+img {
+    display: block;
+    margin: 50px auto;
+    border: 2px solid #915510; 
+}
+
+/* the whole body positioning and border - lining  */
+body {
+    border: 5px solid #915510; 
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* coloring link url */
+a {
+    color: #007bff; 
+    text-decoration: none;
+}
+
+/* hovering on link url */
+a:hover {
+    color: #db1010; 
+    text-decoration: underline;
+}
+
+/* class id */
+.ingredients {
+    border: 5px dashed #915510; 
+    padding-top: 10px;
+}
+
+/* selector */
+#steps {
+    border: 5px dashed #915510; 
+    padding-top: 10px;
+}
