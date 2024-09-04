@@ -66,6 +66,12 @@ a:hover {
     text-decoration: underline;
 }
 
+/* added footer border */
+footer {
+    border: 5px dashed #915510; 
+    padding-top: 5px;
+}
+
 /* class id */
 .ingredients {
     border: 5px dashed #915510; 
